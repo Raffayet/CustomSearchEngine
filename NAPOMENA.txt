@@ -1,0 +1,2 @@
+projekat se pokrece preko topological_DFS.py
+u folderu test data, napravio sam test_calls i test_phones, da bi mogao lakse testirati program sa manjim obimom podataka
